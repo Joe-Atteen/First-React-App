@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    margin: 3rem 22rem;
+}
+
+.screen{
+    background-color: rgb(170, 167, 167);
+    color: white;
+    height: 3.8rem;
+    text-align: right;
+    padding-top: -15px;
+    font-size: 2.5rem;
+}
+
+.ash{
+    background-color: whitesmoke;
+    height: 3rem;
+    border-bottom: 1px solid rgb(209, 208, 208);
+    border-right: 1px solid rgb(209, 208, 208);
+    text-align: center;
+    padding-top: 0.3rem;
+    font-weight: 600;
+    font-size:x-large;
+}
+
+.orange{
+    background-color: #f5923d;
+    color: white;
+    height: 3rem;
+    border-bottom: 1px solid rgb(170, 167, 167);
+    text-align: center;
+    padding-top: 0.3rem;
+    font-weight: 600;
+    font-size:x-large; 
+}
